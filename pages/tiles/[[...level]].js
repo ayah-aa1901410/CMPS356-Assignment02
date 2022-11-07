@@ -1,4 +1,4 @@
-import * as emoji from "emoji-api";
+// import * as emoji from "emoji-api";
 import randomUnicodeEmoji, { random } from "random-unicode-emoji";
 import {Button, Grid} from "@mui/material"
 // import emoji from 'react-easy-emoji'

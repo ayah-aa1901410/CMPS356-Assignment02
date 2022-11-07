@@ -1,6 +1,6 @@
 
 import {Button} from "@mui/material"
-import * as emoji from "emoji-api";
+// import * as emoji from "emoji-api";
 import { Component, useEffect, useState } from "react"
 import { render } from "react-dom"
 import { useMemo } from "react"
